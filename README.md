@@ -1,11 +1,10 @@
 //entry to the project
 
-Click on Branches and select master where it contains the src attribute and other files
+App.jsx is the root component for this project : this is a react project
 
-//click on the whis path
+//click on the files
 
-src attribute is the working directory for this project, click on it and App.jsx is the root component
-in components there is a folder named gdgc where the content of the web is present
+Home,Product,cart,Price are the deployed .jsx folders forthis project and .css also there for designing purpose i additionally also used css 
 
 //header Routing
 
