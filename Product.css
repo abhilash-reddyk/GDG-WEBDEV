@@ -1,0 +1,10 @@
+.lead {
+    color: #ffa500; /* Optional: star color */
+    font-size: 1.2em;
+  }
+  .img{
+    border-radius: 30px;
+  } 
+  .card{
+    width: 18rem;
+  }

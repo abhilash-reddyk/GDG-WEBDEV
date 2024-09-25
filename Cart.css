@@ -1,0 +1,12 @@
+  .CART {
+    display: flex;
+      gap: 20px; 
+      padding: 20px;
+      flex-wrap: wrap;
+  } 
+  .img{
+    border-radius: 30px;
+  } 
+  .card{
+    width: 18rem;
+  }

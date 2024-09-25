@@ -1,0 +1,30 @@
+container {
+    background-color: #e8e3fc;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 300px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(34, 12, 12, 0.1);
+    color: #333;
+    align-self: flex-end;
+  }
+  
+  .heading {
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+  }
+  
+  .item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 1rem;
+  }
+  
+  .itemtotal {
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  
