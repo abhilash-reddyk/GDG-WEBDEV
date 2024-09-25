@@ -4,7 +4,7 @@ App.jsx is the root component for this project : this is a react project
 
 //click on the files
 
-Home,Product,cart,Price are the deployed .jsx folders forthis project and .css also there for designing purpose i additionally also used css 
+Layout,Home,Product,cart,Price are the deployed .jsx folders forthis project and .css also there for designing purpose i additionally also used css 
 
 //header Routing
 
